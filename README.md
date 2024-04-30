@@ -34,11 +34,11 @@ Text Here
 Text Here
 [Insert picture]
 
-## Results
+# Results
 
-# Buoyancy
+## Buoyancy
 
-# Inclines
+## Inclines
 
-## Impact 
+# Impact 
 
