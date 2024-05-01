@@ -1,6 +1,6 @@
 # 3D-Printed-Amphibious-Robot
 The goal of this project was to address time sensitive events inaccessible to human responders similar to that of the Thailand Tham Luang cave Incident where a soccer team of 12 children, aged 11-16, were trapped for 17 days. Due to the complexity of the cave system, it took human responders 9 days to prepare and locate the boys and an additional 8 to get them all out to safety.
-<img src="Images/Full Robot" width="450" height="200"> 
+<img src="Images/Full Robot" width="450" height="300"> 
 
 If there was a versatile robot that could crawl, climb, swim, and be quickly manufactured and deployed into diverse and complex environments, the Thailand Tham Luang cave rescue timeline could have been significantly reduced. 
 
