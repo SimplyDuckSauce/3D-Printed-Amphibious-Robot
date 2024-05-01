@@ -40,11 +40,11 @@ CAD Model Opened
 
 Chassis Drawing
 
-<img src="Images/ChassisDrawing" width="650" height="300"> 
+<img src="Images/ChassisDrawing" width="750" height="400"> 
 
 Lid Drawing
 
-<img src="Images/LidDrawing" width="650" height="300"> 
+<img src="Images/LidDrawing" width="750" height="400"> 
 
 ## Fabrication of Wheels
 * Wheels were fabricated FDM using standard PLA. This was chosen to save weight as the wheels did not need to be water-tight. 
