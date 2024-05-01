@@ -25,7 +25,7 @@ CAD Model Opened
 ## Bill of Material:
 * Electronics (Note: Reevaluation of Electronics Recommended)
   * Raspberry Pi Pico H (x1)
-  * L298N Motor Controller(x2)
+  * L298N Motor Controller (x2)
   * Buck Converter (x1)
   * 35T Motors (x4)
 
