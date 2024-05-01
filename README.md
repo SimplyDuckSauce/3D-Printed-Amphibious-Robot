@@ -15,7 +15,7 @@ Therefore, for our project, we aimed to design a multi-material, amphibious, rob
 * Stereolithography (SLA)
 * Pellet Printing (optional)
 
-## Bill of material:
+## Bill of Material:
 * Electronics (Note: Reevaluation of Electronics Recommended)
   * Raspberry Pi Pico H (x1)
   * L298N Motor Controller(x2)
@@ -40,7 +40,7 @@ Therefore, for our project, we aimed to design a multi-material, amphibious, rob
 [Insert picture and drawings]
 <img src="Images/nozzle_design.png" width="450" height="200"> 
 
-## Fabrication of Motor Seals and washers
+## Fabrication of Motor Seals and Washers
 * The motor seals and washers were printed out of NinjaTek Chinchilla TPU. These components were designed to mimic rubber water seals and o-rings which the TPU material does nicely. However, these could also be printed using 30A pellets. 
 
 [Insert picture and drawings]
