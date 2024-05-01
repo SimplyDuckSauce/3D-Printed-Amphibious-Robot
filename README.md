@@ -1,8 +1,14 @@
 # 3D-Printed-Amphibious-Robot
+The goal of this project was to address time sensitive events inaccessible to human responders similar to that of the Thailand Tham Luang cave Incident where a soccer team of 12 children, aged 11-16, were trapped for 17 days. Due to the complexity of the cave system, it took human responders 9 days to prepare and locate the boys and an additional 8 to get them all out to safety.
 [Insert Picture of Robot]
 <img src="Images/nozzle_design.png" width="450" height="200"> 
 
-Text Here
+If there was a versatile robot that could crawl, climb, swim, and be quickly manufactured and deployed into diverse and complex environments, the Thailand Tham Luang cave rescue timeline could have been significantly reduced. 
+
+Therefore, for our project, we aimed to design a multi-material, amphibious, robot capable of swimming and traversing uneven terrain using various 3D-printing techniques such as Fused Deposition Modeling (FDM), Pellet Printing, and Stereolithography (SLA). 
+
+[Insert Picture of Robot]
+<img src="Images/nozzle_design.png" width="450" height="200"> 
  
 ## Fabrication Techniques Used
 * Fused Deposition Modeling (FDM)
@@ -45,7 +51,6 @@ Text Here
 [Insert picture]
 <img src="Images/nozzle_design.png" width="450" height="200"> 
 
-
 # Results
 
 ## Buoyancy
@@ -56,7 +61,8 @@ The robot proved to float when placed into a bucket of water. Although no testin
 
 
 ## Inclines
-Text Here
+Upon testing, the robot was able to climb an incline of 32 degrees. However, by using a different method of traction on the wheels, it is believed that the robot can achieve an incline of at least 40 degrees. As of currently, due to a printer malfunction, the wheels have a layer of hot glue. In the future, TPU or 30A pellet wheel grips can be utilized. 
+
 [Insert picture]
 <img src="Images/nozzle_design.png" width="450" height="200"> 
 
