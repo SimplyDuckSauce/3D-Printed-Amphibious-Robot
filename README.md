@@ -56,7 +56,7 @@ Wheel Drawing
 <img src="Images/Paddle Wheel Drawing.PNG" width="850" height="300"> 
 
 ## Fabrication of Motor Seals and Washers
-* The motor seals and washers were printed out of NinjaTek Chinchilla TPU. These components were designed to mimic rubber water seals and o-rings which the TPU material does nicely. However, these could also be printed using 30A pellets. 
+* The motor seals and washers were printed out of NinjaTek Chinchilla TPU. These components were designed to mimic rubber water seals and O-rings which the TPU material does nicely. However, these could also be printed using 30A pellets. 
 
 <img src="Images/Seal and Washer.png" width="450" height="450"> 
 
@@ -84,5 +84,5 @@ Upon testing, the robot was able to climb an incline of 32 degrees. However, by 
 
 
 # Impact 
-In order to address hazardous environments in a time-sensitive situation, on-field manufacturing can dramatically decrease the response time for rescuers. The highly customizable nature of 3D Printed manufacturing allows for modification of systems to address specific aspects of the environment and optimize the design and decrease response time.
+In order to address hazardous environments in a time-sensitive situation, on-field manufacturing can dramatically decrease the response time for rescuers. The highly customizable nature of 3D-printed manufacturing allows for modification of systems to address specific aspects of the environment and optimize the design and decrease response time.
 
