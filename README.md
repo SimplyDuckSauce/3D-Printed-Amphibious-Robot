@@ -53,7 +53,7 @@ Lid Drawing
 
 Wheel Drawing
 
-<img src="Images/ahhh" width="450" height="450"> 
+<img src="Images/Paddle Wheel Drawing.PNG" width="850" height="300"> 
 
 ## Fabrication of Motor Seals and Washers
 * The motor seals and washers were printed out of NinjaTek Chinchilla TPU. These components were designed to mimic rubber water seals and o-rings which the TPU material does nicely. However, these could also be printed using 30A pellets. 
